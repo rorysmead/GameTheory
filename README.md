@@ -2,7 +2,7 @@ An easy-to-use resource created by Luke Currier and Rory Smead for modeling repl
 
 ## Guide to Running Simulations<br>
 ### How to run in Google Colab: <br>
-1. Go to https://colab.google/.
+1. Go to https://colab.google/
 2. In the upper right corner, click New Notebook.
 3. Once in your notebook, click File -> Upload Notebook -> Github.
 4. Search for "dastardi/gametheory".
