@@ -6,6 +6,7 @@ An easy-to-use resource created by Luke Currier and Rory Smead for modeling repl
 2. In the upper right corner, click New Notebook.
 3. Once in your notebook, click File -> Upload Notebook -> Github.
 4. Search for "rorysmead/gametheory".
+
 5. Select "Current Version". It should load automatically.
 6. Once in the notebook, you need to run the first two cells before you can run the third cell containing run(). You can do that using Shift->Return or by pressing the play button in the top left corner of the cell.
 7. Once you've done that, you're off to the races! You can create new matrices by using the same format as the others in the second code cell (make sure you type your brackets and commas carefully, we'll try to figure out a better way of doing this soon!).
