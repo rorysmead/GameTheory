@@ -42,3 +42,10 @@ A boolean (True or False) that determines if the simulation shows how many gener
 <b>Random Matrix: randfill</b><br>
 Default value: True<br>
 A boolean (True or False) that determines whether the matrix has random or uniform distribution.<br>
+
+## Project Overview and Description
+This is an original project created by Luke Currier, assisted by and based on code from Rory Smead. It is meant to be an easy-to-use companion for non-technical game theorists who want to observe replicator dynamics for assorted game matrix combinations, and an alternative to popular but more complicated game theory simulation tools such as <a href='https://nashpy.readthedocs.io/en/stable/'>NashPy</a>. Meant to be easy to understand and interact with, as well as build on top of if desired, its notebook format provides easy interaction while keeping it simple - a full UI is something that would be an awesome project in the future. 
+
+The notebook is organized into four sections - variables and a user guide, the backend code which runs the replicator dynamics, the editable matrix window, and a last slot to run the program without having to worry about interacting with the matrices. Users should feel free to mess around with the second two as much as they'd like and experiment, but I only recommend changing the code in the second section if you know what you're doing! Changing things in google colab won't alter the github code, so you'll be able to switch things up as much as you'd like on your personal copy of the code. 
+
+Thank you for using our project, and we hope you enjoy!
